@@ -1,8 +1,8 @@
 # 2D Game
--------------------
+
 ### Theme
 * Created a 2D game under the theme of "I".
--------------------
+
 ### Description
 * The character moves through the direction key.
 * There is a time limit.
