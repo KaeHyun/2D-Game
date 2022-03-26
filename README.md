@@ -1,4 +1,4 @@
-# 2D Game
+# Design 2D game "Follow my daily"
 
 ### Theme
 * Created a 2D game under the theme of "I".
